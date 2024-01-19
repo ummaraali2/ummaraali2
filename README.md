@@ -5,4 +5,3 @@ Other languages that I'm familiar with are JavaScript, Java, Go, C++ - Limited t
 Contact me on ummaraali2020@gmail.com   
 Thanks for reading 
 
-![](https://komarev.com/ghpvc/?username=ummaraali2)
